@@ -1,0 +1,7 @@
+<!--strings.xml-->
+<resources>
+    <string name="app_name">Broadcaster</string>
+    <string name="button_push">PUSH</string>
+    <string name="hint_send">Put anything you want here, it will be sent to the field below</string>
+    <string name="hint_receive">This is the field that the text will be sent to</string>
+</resources>
